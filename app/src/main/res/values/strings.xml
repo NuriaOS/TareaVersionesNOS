@@ -3,4 +3,5 @@
     <string name="action_settings">Settings</string>
     <string name="bienvenida_txt">Hola Mundo</string>
     <string name="btn_hola">Hola</string>
+    <string name="btn_saludo">Saludo</string>
 </resources>
