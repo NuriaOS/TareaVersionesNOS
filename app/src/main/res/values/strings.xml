@@ -2,4 +2,5 @@
     <string name="app_name">TareaVersionesNOS</string>
     <string name="action_settings">Settings</string>
     <string name="bienvenida_txt">Hola Mundo</string>
+    <string name="btn_hola">Hola</string>
 </resources>
